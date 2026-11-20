@@ -1,1 +1,2 @@
 this is new file
+This file was updated in master branch
